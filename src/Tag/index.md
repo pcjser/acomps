@@ -61,3 +61,5 @@ class HotTags extends React.Component {
 }
 export default HotTags;
 ```
+
+<API></API>
